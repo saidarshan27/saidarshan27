@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Sai Darshan!  
 
 ### About Me  
-- 👨‍💻 I’m a **Full Stack Developer** and currently working as a **Senior Software Engineer** specializing in frontend technologies at **GUVI - HackerKID** for the past 3.5 years.  
+- 👨‍💻 I’m a **Full Stack Developer** and currently working as a **Senior Software Engineer** specializing in frontend technologies at **GUVI - HackerKID** for the past 3.6 years.  
 - 🎓 I hold a **Master's in Computer Applications** from **Jain University** and a **PG Diploma in Software Development** from **IIIT Bangalore**.  
 - 🌟 Passionate about building innovative **web applications** and diving into anything JavaScript!  
 - 🚀 Always on the lookout to collaborate on exciting projects related to **web development**.  
